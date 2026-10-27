@@ -1,0 +1,63 @@
+
+[
+  {
+    "intent": "fee",
+    "keywords": [
+      "fee",
+      "fees",
+      "fee structure",
+      "semester fee",
+      "challan",
+      "payment"
+    ],
+    "reply": "For fee details, please check the latest fee structure and challan instructions on the official University of Sargodha website or contact the university accounts office."
+  },
+  {
+    "intent": "admission",
+    "keywords": [
+      "admission",
+      "apply",
+      "application",
+      "merit list",
+      "eligibility",
+      "last date"
+    ],
+    "reply": "For admission information, eligibility criteria, application deadlines and merit lists, please visit the official University of Sargodha website and check the latest admission announcements."
+  },
+  {
+    "intent": "timing",
+    "keywords": [
+      "timing",
+      "time",
+      "class time",
+      "university hours",
+      "schedule",
+      "timetable"
+    ],
+    "reply": "Class timings depend on your department, semester and section. Please check your official timetable or contact your department office."
+  },
+  {
+    "intent": "library",
+    "keywords": [
+      "library",
+      "books",
+      "borrow",
+      "reading room",
+      "study room",
+      "library timing"
+    ],
+    "reply": "For library services, book availability, borrowing rules and opening hours, please contact the University of Sargodha library or check its official announcements."
+  },
+  {
+    "intent": "hostel",
+    "keywords": [
+      "hostel",
+      "accommodation",
+      "room",
+      "hostel fee",
+      "residence",
+      "hostel admission"
+    ],
+    "reply": "For hostel admission, accommodation availability, fees and rules, please contact the University of Sargodha hostel administration for current information."
+  }
+]
