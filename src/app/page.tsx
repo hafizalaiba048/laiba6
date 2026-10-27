@@ -212,7 +212,7 @@ export default function Home() {
           <button
             type="submit"
             disabled={!input.trim() || isTyping}
-            className="rounded-xl bg-blue-700 px-5 py-3 text-sm font-semibold text-white transition hover:bg-blue-800 disabled:cursor-not-allowed disabled:opacity-50"
+            className="rounded-xl bg-purple-700 px-5 py-3 text-sm font-semibold text-white transition hover:bg-blue-800 disabled:cursor-not-allowed disabled:opacity-50"
           >
             Send
           </button>
